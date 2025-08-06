@@ -27,6 +27,7 @@ class Program
             Console.WriteLine("2 - Listar veículos");
             Console.WriteLine("3 - Buscar veículo por nome");
             Console.WriteLine("4 - Remover veículo por nome");
+            Console.WriteLine("5 - Editar veículo por nome");
             Console.WriteLine("0 - Sair");
             Console.Write("Escolha uma opção: ");
 
