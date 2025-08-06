@@ -12,3 +12,4 @@ D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\refint\CadastroVeiculos.dll
 D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.pdb
 D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.genruntimeconfig.cache
 D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\ref\CadastroVeiculos.dll
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.sourcelink.json
