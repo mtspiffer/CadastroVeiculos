@@ -1,0 +1,14 @@
+D:\C#\Aulas\CadastroVeiculos\bin\Debug\net9.0\CadastroVeiculos.exe
+D:\C#\Aulas\CadastroVeiculos\bin\Debug\net9.0\CadastroVeiculos.deps.json
+D:\C#\Aulas\CadastroVeiculos\bin\Debug\net9.0\CadastroVeiculos.runtimeconfig.json
+D:\C#\Aulas\CadastroVeiculos\bin\Debug\net9.0\CadastroVeiculos.dll
+D:\C#\Aulas\CadastroVeiculos\bin\Debug\net9.0\CadastroVeiculos.pdb
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.AssemblyInfoInputs.cache
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.AssemblyInfo.cs
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.dll
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\refint\CadastroVeiculos.dll
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.pdb
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\CadastroVeiculos.genruntimeconfig.cache
+D:\C#\Aulas\CadastroVeiculos\obj\Debug\net9.0\ref\CadastroVeiculos.dll
